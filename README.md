@@ -1,2 +1,2 @@
 # minigrep
-# A simplistic CLI tool written in rust
+### A simplistic CLI tool written in rust
